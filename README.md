@@ -5,21 +5,25 @@ An online quiz system built on PHP, JS and HTML. It has inbuilt Timer support.
 Deployed Version - https://quizzaria.herokuapp.com/
 
 Features:
-Added control to "Enable" and "Disable" the quiz on the Admin panel.
-Added Timer support.
-Added control to navigate among all the questions of quiz (during the quiz) and finish the quiz whenever the user wants.
-Added control so that user can start the quiz at any time and continue the quiz even if some error or session timeout occurs.
-Added control to store the answers to question and show a detailed analysis of the quiz results.
-Overall score will be displayed on the leaderboard section based on all the scroes of a particular quiz that a user take.
-Added control to add, delete the questions in admin panel.
+Added control to "Enable" and "Disable" the quiz on the Admin panel.<br>
+Added Timer support.<br>
+Added control to navigate among all the questions of quiz (during the quiz) and finish the quiz whenever the user wants.<br>
+Added control so that user can start the quiz at any time and continue the quiz even if some error or session timeout occurs.<br>
+Added control to store the answers to question and show a detailed analysis of the quiz results.<br>
+Overall score will be displayed on the leaderboard section based on all the scroes of a particular quiz that a user take.<br>
+Added control to add, delete the questions in admin panel.<br><br>
+<br>
 
+
+https://user-images.githubusercontent.com/68889852/140057186-08bf3fa2-cb23-4b47-a242-03350597ad54.mp4
 
 Setup:
 Clone the repository in your local system. git clone - https://aditijain1511.github.io/quizzaria/
+<br>
 
 
 Import the databse file that has been provided with this repository and run the query.
-
+<br>
 
 Tech Stack Used:
 Frontend: HTML, CSS, Javascript.
@@ -40,6 +44,9 @@ Team:
 Aditi 
 Vaibhav
 Sneh
+
+
+
 
 
 

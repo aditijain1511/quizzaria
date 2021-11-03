@@ -31,7 +31,7 @@ Backend: PHP.
 
 
 
-
+ 
 
 Deployment:
 This application is been hosted on a free hosting platform called infintyfree.<br>

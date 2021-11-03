@@ -34,16 +34,17 @@ Backend: PHP.
 
 
 Deployment:
-This application is been hosted on a free hosting platform called infintyfree.
-Inside CPanel we have to link Database using phpmyadmin.
-Using File Manager of CPanel the files were deployed on the server named htdocs folder.
+This application is been hosted on a free hosting platform called infintyfree.<br>
+Inside CPanel we have to link Database using phpmyadmin.<br>
+Using File Manager of CPanel the files were deployed on the server named htdocs folder.<br>
 Live Project :- https://quizzaria.herokuapp.com/
+<br>
 
 Team:
-
-Aditi 
-Vaibhav
-Sneh
+<br>
+Aditi <br>
+Vaibhav<br>
+Sneh<br>
 
 
 
